@@ -40,7 +40,7 @@ body {
     z-index: 10;
 }
 
-.under18::before {
+.under18::after {
     content: "";
     background-image: url(../img/under18.png);
     background-size: contain;
